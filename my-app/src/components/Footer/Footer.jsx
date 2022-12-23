@@ -45,7 +45,7 @@ const Footer = () => {
           <h5 className="footer__title">Contact</h5>
           <ListGroup className="deliver__time-list">
             <ListGroupItem className=" delivery__time-item border-0 ps-0">
-              <p>Location: ZindaBazar, Sylhet-3100, Bangladesh</p>
+              <p>Location:Tehran Iran</p>
             </ListGroupItem>
             <ListGroupItem className=" delivery__time-item border-0 ps-0">
               <span>Phone: 01712345678</span>
@@ -72,7 +72,7 @@ const Footer = () => {
       <Row className="mt-5">
         <Col lg="6" md="6">
           <p className="copyright__text">
-            Copyright - 2022, website made by Muhibur Rahman. All Rights
+            Copyright - 2022, website made by Nima Rahnama. All Rights
             Reserved.
           </p>
         </Col>
